@@ -1,0 +1,67 @@
+body {
+  background: url('ucity.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn {
+  padding-left: 42%;
+  padding-top: 22%;
+  width: 220px;
+}
+
+.ui.animated.button {
+  background-color: white;
+}
+
+.ui.button {
+  border-style: inset;
+  border-width: 2px;
+  border-color: #dbd4ce;
+  color: black;
+  font-family: 'Cinzel', serif;
+  font-size: 17px;
+}
+
+.infoBox {
+  padding-top: 5%;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.mainText {
+  padding-top: 100px;
+  font-family: 'Cinzel', serif;
+  color: white !important;
+  text-align: center;
+}
+
+p {
+  padding-top: 38px;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  color: white !important;
+  font-size: 62px;
+}
+
+.sbw {
+  padding-right: 61px;
+}
+
+.sbw1 {
+  padding-left: 25px;
+}
+
+.distanceText {
+  opacity: 0.85;
+  margin-top: 35px;
+  background: #f7f1e3;
+  margin-left: 395px;
+  margin-right: 395px;
+  padding-bottom: 30px;
+  padding-right: 5px;
+  border-style: solid;
+  border-radius: 15px;
+}
