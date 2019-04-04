@@ -7,7 +7,7 @@ const DisplayInfo = props => {
       <h2 className="mainText">Location is away from Banja Luka: </h2>
       <Distance />
       <div className="infoBox">
-        <table class="ui celled table">
+        <table className="ui celled table">
           <thead>
             <tr>
               <th>Info</th>
